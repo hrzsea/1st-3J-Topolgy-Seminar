@@ -1,7 +1,5 @@
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-————————————————
+项目     | 价格
+-------- | ---
+Computer | $1600
+Phone    | $12
+Pipe     | $1
