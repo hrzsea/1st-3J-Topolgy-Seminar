@@ -1,13 +1,14 @@
-# Welcome to the 1st 3J Topology Seminar    
+# Welcome to the 1st 3J Topology Seminar  
 
-<font color=#0099ff size=12 face="黑体">The 1st 3J Topology Seminar will hod at Hebei Normal University from Oct. 19-20, 2019 (the 3rd weekend of October).</font>
+The 1st 3J Topology Seminar will hod at Hebei Normal University from Oct. 19-20, 2019 (the 3rd weekend of October).  
+
 
 ## Program  
 
 
 |                             |       Oct. 19, Monday       |   Oct. 20, Monday            |
 | --------------------------- | --------------------------- | ---------------------------- |
-| 7:3    ?     8:15am         |                        Breakfast at ?                      |
+| 7:3    ?     8:15am         |       Breakfast at ?        |                              |
 |     8:15am - 8:30am         | Opening                     |                              |
 |          Chair              |                             |                              |
 |            8:30am - 9:20am  |               **Yang Su**   |                **Jian Liu**  |
