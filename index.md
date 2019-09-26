@@ -42,7 +42,7 @@ Title: On the topology of String manifolds of dimension $24$
 
 Abstract: String can be viewed as higher version of Spin, while the latter plays a fundamental role in Atiyah-Singer index theory. People try to develop parallel theory for String, the whole story of which is still mystery. Geometry and topology of String manifolds then attract increasing attentions and interests. In this talk, following Hirzebruch, Mahowald-Hopkins we will discuss both the topological and index theoretical aspects of $24$-dimensional String manifolds. In particular, we will give an integral basis for the String cobordism groups at dimension 24, and also show divisibility of various characteristic classes. Besides others both the classical Borel-Hirzebruch algorithm and Duan’s Spin classes will be used for the calculations.  
 
-This is joint work with Fei Han (NUS) in progress. The initial motivation for this project is a question of Teichner, which will be also addressed and discussed with a conjecture of mine, which is right I believe.  
+This is joint work with Fei Han (NUS) in progress. The initial motivation for this project is a question of Teichner, which will be also addressed and discussed. I may propose a conjecture, which is right I believe.    
 
 - **Jian Liu (Nankai)**  
 
