@@ -5,7 +5,7 @@ The 1st 3J Topology Seminar will hod at Hebei Normal University from Oct. 19-20,
 
 
 
-         | 价格
+         | 价格  
 -------- | ---
 Computer | $1600
 Phone    | $12
