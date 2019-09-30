@@ -1,6 +1,6 @@
 # Welcome to the 1st 3J Topology Seminar  
 
-The 1st 3J Topology Seminar will hod at Hebei Normal University from Oct. 19-20, 2019 (the 3rd weekend of October).  
+The 1st 3J Topology Seminar will hod at 河北正定乒乓球训练基地 from Oct. 19-20, 2019 (the 3rd weekend of October).  
 
 
 ## Program  
@@ -8,8 +8,8 @@ The 1st 3J Topology Seminar will hod at Hebei Normal University from Oct. 19-20,
 
 |                             |       Oct. 19, Monday       |   Oct. 20, Monday            |
 | --------------------------- | --------------------------- | ---------------------------- |
-| 7:3    ?     8:15am         |       Breakfast at ?        |                              |
-|     8:15am - 8:30am         | Opening                     |                              |
+|     7:00am - 8:00am         |            Breakfast        |      Breakfast               |
+|     8:15am - 8:30am         |           Opening           |                              |
 |          Chair              |                             |                              |
 |            8:30am - 9:20am  |               **Yang Su**   |                **Jian Liu**  |
 |            9:20am - 9:30am  |          Tea Break          |         Tea Break            |
@@ -19,12 +19,14 @@ The 1st 3J Topology Seminar will hod at Hebei Normal University from Oct. 19-20,
 |            11:20am-11:30am  |          Tea Break          |         Tea Break            |
 |            11:30am-12:20am  |          **Ruizhi Huang**   |           **Xiangjun Wang**  |
 |                                                                                          |
-|            12:20pm-2:20pm   |                        Lunch at ?                          |
+|            12:20pm          |                Lunch        |           Lunch              |
 |                                                                                          |
 |              Afternoon      |         **Free disussion**  |  Free disucssion/Leave       |
 |                                                                                          |
-|              6:00pm-?       |                                        Dinner at ?         |
+|              6:00pm         |             Dinner          |          Dinner              |
 
+
+`Breakfast, Lunch and Dinner is avaiable at 正定乒乓球基地餐厅`
 
 ## Talks  
 
@@ -66,6 +68,18 @@ Abstract: In this talk I shall give a brief introduction to the study of Chang c
 
 - **Xiangjun Wang (Nankai)**  
 
-Title:  
+题目:八分之十一猜想  
 
-Abstract:  
+摘要:在这个报告中我将从单连通4维流行的上同调环讲起，介绍八分之十一猜想的内容及最新进展。
+
+
+## Travel Information
+
+地址：河北省石家庄市正定县兴荣路63号
+乘车路线：
+1.	石家庄火车站：乘公交车148路到大正驾校站换乘164路，至正定乒乓球训练基地即到。
+2.	正定机场高铁站：乘出租到基地下车。
+3.	石家庄机场：乘机场巴士到金星假日酒店下车，十字路口处西行100米即到。
+4.	自驾车：正定高速路口下，西行（即下高速左转）见肝病医院，第一个十字路口处左转南行，第一个红绿灯丁字路口右转西行约800米，丁字路口左转（隆兴寺方向）约500米处十字路口处右转沿兴荣路直行100米即到。
+5.	石家庄市区自驾车：市区体育大街行至子龙大桥出口处左转后直行，第一个十字口路右转直行至第二个十字路口处右转沿路行驶至兴荣路63号即到。
+6.	周边县、市自驾车：走107国道见正定牌楼处进入正定县城，沿路行驶至兴荣路63号即到。
