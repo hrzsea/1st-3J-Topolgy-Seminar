@@ -13,7 +13,7 @@ All the information about the seminar, including [Talk Schedule and Dinning arra
 |     7:00am - 8:00am         |            Breakfast*        |      Breakfast*             |
 |     8:15am - 8:30am         |           Opening           |                              |
 |          Chair              |                             |                              |
-|            8:30am - 9:20am  |     [**Yang Su**](Yang Su)  |                **Jian Liu**  |
+|            8:30am - 9:20am  |     [**Yang Su**](#Yang Su)  |                **Jian Liu**  |
 |            9:20am - 9:30am  |          Tea Break          |         Tea Break            |
 |           9:30am - 10:20am  |               **Yang Su**   |            **Pengcheng Li**  |
 |            10:20am-10:30am  |          Tea Break          |         Tea Break            |
