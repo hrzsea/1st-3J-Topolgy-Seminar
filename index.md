@@ -1,9 +1,11 @@
 # Welcome to the 1st 3J Topology Seminar  
 
-The 1st 3J Topology Seminar will hod at [河北正定乒乓球训练基地](#Travel Information) from Oct. 19-20, 2019 (the 3rd weekend of October), hosted by 河北师范大学(Hebei Normal University).  
+The 1st 3J Topology Seminar will hold at [河北正定乒乓球训练基地](#Travel Information) from Oct. 19-20, 2019 (the 3rd weekend of October), hosted by Hebei Normal University (河北师范大学).  
+
+All the information about the seminar, including [Talk Schedule and Dinning arrangement](#Program), [Abstracts of the talks](#Talks), [Travel information](#Travel information), and [Reimbursement Information](#Reimbursement Information), will be released in this page.
 
 
-## Program  
+## <span id="Program">Program</span>  
 
 
 |                             |       Oct. 19, Monday       |   Oct. 20, Monday            |
@@ -28,14 +30,14 @@ The 1st 3J Topology Seminar will hod at [河北正定乒乓球训练基地](#Tra
 
 `*Breakfast, Lunch and Dinner is avaiable at 正定乒乓球基地餐厅`
 
-## Talks  
+## <span id="Talks">Talks</span>    
 
 
 - **Yang Su (CAS)**  
 
 Title: Finiteness and infiniteness of the Torelli groups of (hyper)-Kahler manifolds  
 
-Abstract: The Torelli group of a closed smooth manifold X is the subgroup of the mapping class group consisting of elements which act trivially on the integral cohomology of X. In this note we give  counterexamples to a theorem by Verbitsky which states that the Torelli group of simply connected Kahler manifolds of complex dimension >2 is finite. We also give a counterexample to the theorem of Verbitsky which claims that the Torelli group of hyper-Kahler manifolds are finite. Finally we confirm the finiteness result for the special case of the hyper-Kahler manifold K[2]. This is a joint work with M.Kreck.
+Abstract: The Torelli group of a closed smooth manifold X is the subgroup of the mapping class group consisting of elements which act trivially on the integral cohomology of X. In this note we give counterexamples to a theorem by Verbitsky which states that the Torelli group of simply connected Kahler manifolds of complex dimension >2 is finite. We also give a counterexample to the theorem of Verbitsky which claims that the Torelli group of hyper-Kahler manifolds are finite. Finally we confirm the finiteness result for the special case of the hyper-Kahler manifold K[2]. This is a joint work with M.Kreck.
 
 
 - **Ruizhi Huang (CAS)**  
@@ -75,8 +77,10 @@ Abstract: In this talk I shall give a brief introduction to the study of Chang c
 
 ## <span id="Travel Information">Travel Information</span>
 
-地址：河北省石家庄市正定县兴荣路63号
-乘车路线：
+地址：河北省石家庄市正定县兴荣路63号  
+
+乘车路线：  
+
 1.	石家庄火车站：乘公交车148路到大正驾校站换乘164路，至正定乒乓球训练基地即到。
 2.	正定机场高铁站：乘出租到基地下车。
 3.	石家庄机场：乘机场巴士到金星假日酒店下车，十字路口处西行100米即到。
@@ -86,4 +90,5 @@ Abstract: In this talk I shall give a brief introduction to the study of Chang c
 
 `Nearby, there are several interesting places including: 荣国府与宁荣街，隆兴寺，赵云庙`
 
-## Reimbursement Information
+##  <span id="Reimbursement Information">Reimbursement Information</span> 
+
