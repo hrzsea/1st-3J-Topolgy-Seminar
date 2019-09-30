@@ -2,7 +2,7 @@
 
 The 1st 3J Topology Seminar will hold at [河北正定乒乓球训练基地](http://www.cttazd.com/china/) from Oct. 19-20, 2019 (the 3rd weekend of October), hosted by Hebei Normal University (河北师范大学).
 
-All the information about the seminar, including [Talk Schedule and Dinning arrangement](#Program), [Abstracts of the talks](#Talks), [Travel information](#Travel information), and [Reimbursement Information](#Reimbursement Information), will be released in this page.
+All the information about the seminar, including [Talk Schedule and Dinning arrangement](#Program), [Abstracts of the talks](#Talks), [Travel Information](Travel Information), and [Reimbursement Information](#Reimbursement Information), will be released in this page.
 
 
 ## <span id="Program">Program</span>  
@@ -13,7 +13,7 @@ All the information about the seminar, including [Talk Schedule and Dinning arra
 |     7:00am - 8:00am         |            Breakfast*        |      Breakfast*             |
 |     8:15am - 8:30am         |           Opening           |                              |
 |          Chair              |                             |                              |
-|            8:30am - 9:20am  |               **Yang Su**   |                **Jian Liu**  |
+|            8:30am - 9:20am  |     [**Yang Su**](Yang Su)  |                **Jian Liu**  |
 |            9:20am - 9:30am  |          Tea Break          |         Tea Break            |
 |           9:30am - 10:20am  |               **Yang Su**   |            **Pengcheng Li**  |
 |            10:20am-10:30am  |          Tea Break          |         Tea Break            |
@@ -25,15 +25,15 @@ All the information about the seminar, including [Talk Schedule and Dinning arra
 |                                                                                          |
 |              Afternoon      |         **Free disussion**  |  Free disucssion/Leave       |
 |                                                                                          |
-|              6:00pm (TBC)   |             Dinner*          |          Dinner*            |
+|              6:00pm (TBC)   |             Dinner*          |                             |
 
 
-### Breakfast, Lunch and Dinner is avaiable at 正定乒乓球基地餐厅
+* _Breakfast, Lunch and Dinner is avaiable at 正定乒乓球基地餐厅_
 
 ## <span id="Talks">Talks</span>    
 
 
-- **Yang Su (CAS)**  
+- **<span id="Yang Su">Yang Su</span> (CAS)**  
 
 Title: Finiteness and infiniteness of the Torelli groups of (hyper)-Kahler manifolds  
 
