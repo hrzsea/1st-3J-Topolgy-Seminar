@@ -8,27 +8,28 @@ All the information about the seminar, including [Talk Schedule and Dinning arra
 ## <span id="Program">Program</span>  
 
 
-|                             |       Oct. 19, Monday       |   Oct. 20, Monday            |
-| --------------------------- | --------------------------- | ---------------------------- |
-|     7:00am - 8:00am         |            Breakfast*        |      Breakfast*             |
-|     8:15am - 8:30am         |           Opening           |                              |
-|          Chair              |                             |                              |
-|            8:30am - 9:20am  |     [**Yang Su**](#Yang Su)  |                **Jian Liu**  |
-|            9:20am - 9:30am  |          Tea Break          |         Tea Break            |
-|           9:30am - 10:20am  |               **Yang Su**   |            **Pengcheng Li**  |
-|            10:20am-10:30am  |          Tea Break          |         Tea Break            |
-|            10:30am-11:20am  |         **Ruizhi Huang**    |         **Zhiguo Zhang**     | 
-|            11:20am-11:30am  |          Tea Break          |         Tea Break            |
-|            11:30am-12:20am  |          **Ruizhi Huang**   |           **Xiangjun Wang**  |
-|                                                                                          |
-|            12:30pm          |                Lunch*        |           Lunch*            |
-|                                                                                          |
-|              Afternoon      |         **Free disussion**  |  Free disucssion/Leave       |
-|                                                                                          |
-|              6:00pm (TBC)   |             Dinner*          |                             |
+|                             |       Oct. 19, Monday             |   Oct. 20, Monday                      |
+| --------------------------- | --------------------------------  | -------------------------------------- |
+|     7:00am - 8:00am         |     Breakfast<sup>1</sup>         |      Breakfast<sup>1</sup>            |
+|     8:15am - 8:30am         |           Opening                 |                                        |
+|          Chair              |                                   |                                        |
+|            8:30am - 9:20am  |     [**Yang Su**](#Yang Su)       |      [**Jian Liu**](#Jian Liu)         |
+|            9:20am - 9:30am  |          Tea Break                |         Tea Break                      |
+|           9:30am - 10:20am  |               **Yang Su**         |    **[Pengcheng Li](#Pengcheng Li)**   |
+|            10:20am-10:30am  |          Tea Break                |         Tea Break                      |
+|            10:30am-11:20am  | [**Ruizhi Huang**](#Ruizhi Huang) |     [**Zhiguo Zhang**](Zhiguo Zhang)   | 
+|            11:20am-11:30am  |          Tea Break                |                   Tea Break            |
+|            11:30am-12:20am  |          **Ruizhi Huang**         | [**Xiangjun Wang**](Xiangjun Wang<sup>2</sup>) |
+|                                                                                                          |
+|            12:30pm          |          Lunch<sup>1</sup>        |        Lunch<sup>1</sup>               |
+|                                                                                                          |
+|              Afternoon      |               **Free disussion**  |            Free disucssion/Leave       |
+|                                                                                                          |
+|              6:00pm (TBC)   |             Dinner<sup>1</sup>)   |                                        |
 
+* 1. Breakfast, Lunch and Dinner is avaiable at 正定乒乓球基地餐厅_    
 
-* _Breakfast, Lunch and Dinner is avaiable at 正定乒乓球基地餐厅_
+* 2. This is a 30-min talk as required by the speaker
 
 ## <span id="Talks">Talks</span>    
 
@@ -40,7 +41,7 @@ Title: Finiteness and infiniteness of the Torelli groups of (hyper)-Kahler manif
 Abstract: The Torelli group of a closed smooth manifold X is the subgroup of the mapping class group consisting of elements which act trivially on the integral cohomology of X. In this note we give counterexamples to a theorem by Verbitsky which states that the Torelli group of simply connected Kahler manifolds of complex dimension >2 is finite. We also give a counterexample to the theorem of Verbitsky which claims that the Torelli group of hyper-Kahler manifolds are finite. Finally we confirm the finiteness result for the special case of the hyper-Kahler manifold K[2]. This is a joint work with M.Kreck.
 
 
-- **Ruizhi Huang (CAS)**  
+- **<span id="Ruizhi Huang">Ruizhi Huang</span> (CAS)**  
 
 Title: On the topology of String manifolds of dimension $24$  
 
@@ -48,7 +49,7 @@ Abstract: String can be viewed as higher version of Spin, while the latter plays
 
 This is joint work with Fei Han (NUS) in progress. The initial motivation for this project is a question of Teichner, which will be also addressed and discussed. I may propose a conjecture, which is right I believe.    
 
-- **Jian Liu (Nankai)**  
+- **<span id="Jian Liu">Jian Liu</span> (Nankai)**  
 
 Title: On the injection of the fixed point set into the homotopy fixed point set  
 
@@ -56,19 +57,19 @@ Abstract: Given an action of a compact connected Lie group $G$ on the rational n
 
 
 
-- **Pengcheng Li (CAS)**  
+- **<span id="Pengcheng Li">Pengcheng Li</span> (CAS)**  
 
 Title: Introduction to Chang Complexes  
 
 Abstract: In this talk I shall give a brief introduction to the study of Chang complexes motivated by some classical and famous results of Moore spaces.  
 
 
-- **张志国 (HNU)**  
+- **<span id="张志国">张志国</span> (HNU)**  
 
 题目:拓扑邻接范畴下的强同伦及其推广                    
 摘要:本报告主要介绍拓扑邻接范畴下的强同伦的背景，概念，意义，性质及其在图上的推广！  
 
-- **Xiangjun Wang (Nankai)**  
+- **<span id="Xiangjun Wang">Xiangjun Wang</span> (Nankai)**  
 
 题目:八分之十一猜想  
 
