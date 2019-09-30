@@ -1,6 +1,6 @@
 # Welcome to the 1st 3J Topology Seminar  
 
-The 1st 3J Topology Seminar will hod at `[河北正定乒乓球训练基地](#Travel Information)` from Oct. 19-20, 2019 (the 3rd weekend of October), hosted by 河北师范大学(Hebei Normal University).  
+The 1st 3J Topology Seminar will hod at [河北正定乒乓球训练基地](#Travel Information) from Oct. 19-20, 2019 (the 3rd weekend of October), hosted by 河北师范大学(Hebei Normal University).  
 
 
 ## Program  
@@ -73,7 +73,7 @@ Abstract: In this talk I shall give a brief introduction to the study of Chang c
 摘要:在这个报告中我将从单连通4维流行的上同调环讲起，介绍八分之十一猜想的内容及最新进展。
 
 
-## `Travel Information`
+## <span id="Travel Information">Travel Information</span>
 
 地址：河北省石家庄市正定县兴荣路63号
 乘车路线：
