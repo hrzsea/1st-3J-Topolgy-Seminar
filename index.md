@@ -28,7 +28,7 @@ All the information about the seminar, including [Talk Schedule and Dinning arra
 |              6:00pm (TBC)   |             Dinner*          |          Dinner*            |
 
 
-`*Breakfast, Lunch and Dinner is avaiable at 正定乒乓球基地餐厅`
+### Breakfast, Lunch and Dinner is avaiable at 正定乒乓球基地餐厅
 
 ## <span id="Talks">Talks</span>    
 
