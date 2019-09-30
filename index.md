@@ -27,7 +27,7 @@ All the information about the seminar, including [Talk Schedule and Dinning arra
 |                                                                                                          |
 |              6:00pm (TBC)   |             Dinner<sup>1</sup>   |                                        |
 
-1. Breakfast, Lunch and Dinner is avaiable at 正定乒乓球基地餐厅_
+1. _Breakfast, Lunch and Dinner is avaiable at 正定乒乓球基地餐厅_
 2. This is a 30-min talk as required by the speaker
 
 ## <span id="Talks">Talks</span>    
