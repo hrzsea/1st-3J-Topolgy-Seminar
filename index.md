@@ -1,6 +1,6 @@
 # Welcome to the 1st 3J Topology Seminar  
 
-The 1st 3J Topology Seminar will hod at 河北正定乒乓球训练基地 from Oct. 19-20, 2019 (the 3rd weekend of October).  
+The 1st 3J Topology Seminar will hod at 河北正定乒乓球训练基地 from Oct. 19-20, 2019 (the 3rd weekend of October), hosted by 河北师范大学(Hebei Normal University).  
 
 
 ## Program  
@@ -19,11 +19,11 @@ The 1st 3J Topology Seminar will hod at 河北正定乒乓球训练基地 from O
 |            11:20am-11:30am  |          Tea Break          |         Tea Break            |
 |            11:30am-12:20am  |          **Ruizhi Huang**   |           **Xiangjun Wang**  |
 |                                                                                          |
-|            12:20pm          |                Lunch        |           Lunch              |
+|            12:30pm          |                Lunch        |           Lunch              |
 |                                                                                          |
 |              Afternoon      |         **Free disussion**  |  Free disucssion/Leave       |
 |                                                                                          |
-|              6:00pm         |             Dinner          |          Dinner              |
+|              6:00pm (TBC)   |             Dinner          |          Dinner              |
 
 
 `Breakfast, Lunch and Dinner is avaiable at 正定乒乓球基地餐厅`
@@ -83,3 +83,7 @@ Abstract: In this talk I shall give a brief introduction to the study of Chang c
 4.	自驾车：正定高速路口下，西行（即下高速左转）见肝病医院，第一个十字路口处左转南行，第一个红绿灯丁字路口右转西行约800米，丁字路口左转（隆兴寺方向）约500米处十字路口处右转沿兴荣路直行100米即到。
 5.	石家庄市区自驾车：市区体育大街行至子龙大桥出口处左转后直行，第一个十字口路右转直行至第二个十字路口处右转沿路行驶至兴荣路63号即到。
 6.	周边县、市自驾车：走107国道见正定牌楼处进入正定县城，沿路行驶至兴荣路63号即到。
+
+`Nearby, there are several interesting places including: 荣国府与宁荣街，隆兴寺，赵云庙`
+
+## Reimbursement Information
