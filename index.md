@@ -2,7 +2,7 @@
 
 The 1st 3J Topology Seminar will hold at [河北正定乒乓球训练基地](http://www.cttazd.com/china/) from Oct. 19-20, 2019 (the 3rd weekend of October), hosted by Hebei Normal University (河北师范大学).
 
-All the information about the seminar, including [Talk Schedule and Dinning arrangement](#Program), [Abstracts of the talks](#Talks), [Travel Information](Travel Information), and [Reimbursement Information](#Reimbursement Information), will be released in this page.
+All the information about the seminar, including [Talk Schedule and Dinning arrangement](#Program), [Abstracts of the talks](#Talks), [Travel Information](#Travel Information), and [Reimbursement Information](#Reimbursement Information), will be released in this page.
 
 
 ## <span id="Program">Program</span>  
@@ -90,5 +90,11 @@ Abstract: In this talk I shall give a brief introduction to the study of Chang c
 
 `Nearby, there are several interesting places including: 荣国府与宁荣街，隆兴寺，赵云庙`
 
-##  <span id="Reimbursement Information">Reimbursement Information</span> 
+##  <span id="Reimbursement Information">Reimbursement Information</span>  
+
+To apply reimbursement from the host, please contact Professor Yanhong Ding (丁雁鸿老师，yanhongding@163.com) with the following document:
+
+1.	个人身份信息
+2.	来回火车票
+3.	住宿发票（**注意**，发票抬头及纳税人识别号为：河北师范大学，12130000401703612G）
 
