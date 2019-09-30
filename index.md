@@ -17,7 +17,7 @@ All the information about the seminar, including [Talk Schedule and Dinning arra
 |            9:20am - 9:30am  |          Tea Break                |         Tea Break                      |
 |           9:30am - 10:20am  |               **Yang Su**         |    **[Pengcheng Li](#Pengcheng Li)**   |
 |            10:20am-10:30am  |          Tea Break                |         Tea Break                      |
-|            10:30am-11:20am  | [**Ruizhi Huang**](#Ruizhi Huang) |     [**Zhiguo Zhang**](#Zhiguo Zhang)   | 
+|            10:30am-11:20am  | [**Ruizhi Huang**](#Ruizhi Huang) |     [**Zhiguo Zhang**](#张志国)   | 
 |            11:20am-11:30am  |          Tea Break                |                   Tea Break            |
 |            11:30am-12:20am  |          **Ruizhi Huang**         | [**Xiangjun Wang**](#Xiangjun Wang)<sup>2</sup> |
 |                                                                                                          |
@@ -29,6 +29,7 @@ All the information about the seminar, including [Talk Schedule and Dinning arra
 
 1. _Breakfast, Lunch and Dinner is avaiable at 正定乒乓球基地餐厅_
 2. This is a 30-min talk as required by the speaker
+3. WIFI:    , PASSWORD:
 
 ## <span id="Talks">Talks</span>    
 
