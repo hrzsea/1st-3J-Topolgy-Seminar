@@ -1,6 +1,6 @@
 # Welcome to the 1st 3J Topology Seminar  
 
-The 1st 3J Topology Seminar will hod at 河北正定乒乓球训练基地 from Oct. 19-20, 2019 (the 3rd weekend of October), hosted by 河北师范大学(Hebei Normal University).  
+The 1st 3J Topology Seminar will hod at `[河北正定乒乓球训练基地](#Travel Information)` from Oct. 19-20, 2019 (the 3rd weekend of October), hosted by 河北师范大学(Hebei Normal University).  
 
 
 ## Program  
@@ -8,7 +8,7 @@ The 1st 3J Topology Seminar will hod at 河北正定乒乓球训练基地 from O
 
 |                             |       Oct. 19, Monday       |   Oct. 20, Monday            |
 | --------------------------- | --------------------------- | ---------------------------- |
-|     7:00am - 8:00am         |            Breakfast        |      Breakfast               |
+|     7:00am - 8:00am         |            Breakfast*        |      Breakfast*             |
 |     8:15am - 8:30am         |           Opening           |                              |
 |          Chair              |                             |                              |
 |            8:30am - 9:20am  |               **Yang Su**   |                **Jian Liu**  |
@@ -19,14 +19,14 @@ The 1st 3J Topology Seminar will hod at 河北正定乒乓球训练基地 from O
 |            11:20am-11:30am  |          Tea Break          |         Tea Break            |
 |            11:30am-12:20am  |          **Ruizhi Huang**   |           **Xiangjun Wang**  |
 |                                                                                          |
-|            12:30pm          |                Lunch        |           Lunch              |
+|            12:30pm          |                Lunch*        |           Lunch*            |
 |                                                                                          |
 |              Afternoon      |         **Free disussion**  |  Free disucssion/Leave       |
 |                                                                                          |
-|              6:00pm (TBC)   |             Dinner          |          Dinner              |
+|              6:00pm (TBC)   |             Dinner*          |          Dinner*            |
 
 
-`Breakfast, Lunch and Dinner is avaiable at 正定乒乓球基地餐厅`
+`*Breakfast, Lunch and Dinner is avaiable at 正定乒乓球基地餐厅`
 
 ## Talks  
 
@@ -73,7 +73,7 @@ Abstract: In this talk I shall give a brief introduction to the study of Chang c
 摘要:在这个报告中我将从单连通4维流行的上同调环讲起，介绍八分之十一猜想的内容及最新进展。
 
 
-## Travel Information
+## `Travel Information`
 
 地址：河北省石家庄市正定县兴荣路63号
 乘车路线：
