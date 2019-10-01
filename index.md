@@ -93,7 +93,7 @@ Abstract: In this talk I shall give a brief introduction to the study of Chang c
 
 ##  <span id="Reimbursement Information">Reimbursement Information</span>  
 
-To apply reimbursement from the host, please contact Professor Yanhong Ding (丁雁鸿老师，yanhongding@163.com) with the following document:
+To apply reimbursement from the host, please contact Professor Yanhong Ding (丁雁鸿老师，yanhongding@163.com) with the following documents:
 
 1.	个人身份信息
 2.	来回火车票
