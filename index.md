@@ -2,7 +2,7 @@
 
 The 1st 3J Topology Seminar will hold at [河北正定乒乓球训练基地](http://www.cttazd.com/china/) from Oct. 19-20, 2019 (the 3rd weekend of October), hosted by Hebei Normal University (河北师范大学).
 
-The seminar will be paperless. All the information about the seminar, including [Talk Schedule and Dining arrangement](#Program), [Abstracts of the talks](#Talks), [Travel Information](#Travel Information), and [Reimbursement Information](#Reimbursement Information), will be released at this page.
+The seminar will be paperless. All the information about the seminar, including [Talk Schedule](#Program), [Abstracts of the talks](#Talks), [Travel Information](#Travel Information), [Accommodation and Dining arrangement](#Accommodation), and [Reimbursement Information](#Reimbursement Information), will be released at this page.
 
 
 ## <span id="Program">Program</span>  
@@ -27,9 +27,13 @@ The seminar will be paperless. All the information about the seminar, including 
 |                                                                                                          |
 |              6:00pm (TBC)   |             Dinner<sup>1</sup>   |                                        |
 
-1. Breakfast, Lunch and Dinner are avaiable at 正定乒乓球基地餐厅
 2. This is a 30-min talk as required by the speaker
 3. WIFI:    , PASSWORD:
+
+
+
+
+
 
 ## <span id="Talks">Talks</span>    
 
@@ -82,21 +86,34 @@ Abstract: In this talk I shall give a brief introduction to the study of Chang c
 
 乘车路线：  
 
-1.	石家庄火车站：乘公交车148路到大正驾校站换乘164路，至正定乒乓球训练基地即到。
-2.	正定机场高铁站：乘出租到基地下车。
-3.	石家庄机场：乘机场巴士到金星假日酒店下车，十字路口处西行100米即到。
-4.	自驾车：正定高速路口下，西行（即下高速左转）见肝病医院，第一个十字路口处左转南行，第一个红绿灯丁字路口右转西行约800米，丁字路口左转（隆兴寺方向）约500米处十字路口处右转沿兴荣路直行100米即到。
-5.	石家庄市区自驾车：市区体育大街行至子龙大桥出口处左转后直行，第一个十字口路右转直行至第二个十字路口处右转沿路行驶至兴荣路63号即到。
-6.	周边县、市自驾车：走107国道见正定牌楼处进入正定县城，沿路行驶至兴荣路63号即到。
-7.  打车，石家庄火车站到乒乓球基地，大约80元
-8.  打车，石家庄北站-乒乓球基地，大约70元
-9.  地铁，石家庄火车站（3号线）-新百广场（1号线，福泽方向）-商务中心D口-乒乓球基地（打车10元或143路公交）
+1. 石家庄火车站：  
+
+方案一：乘公交车148路到大正驾校站换乘164路，至正定乒乓球训练基地（以下简称“基地”）即到；   
+
+方案二：地铁，石家庄火车站乘3号线-新百广场乘1号线（福泽方向）-商务中心D口-乘出租车（大约10元）到基地或换乘143路公交；  
+
+方案三：出租车，石家庄火车站到“基地”，大约80元。  
+
+2. 正定机场高铁站：乘出租车到“基地”， 大约60元。  
+
+3. 石家庄机场：乘机场巴士到金星假日酒店下车，十字路口处西行100米即到。  
+
+4. 石家庄北站：乘出租车到“基地”下车， 大约60元。  
+
+5. 自驾车：正定高速路口下，西行（即下高速左转）见肝病医院，第一个十字路口处左转南行，第一个红绿灯丁字路口右转西行约800米，丁字路口左转（隆兴寺方向）约500米处十字路口处右转沿兴荣路直行100米即到。  
+
 
 `Nearby, there are several interesting places including: 荣国府与宁荣街，隆兴寺，赵云庙`
 
+
+## <span id="Accommodation">Accommodation</span>
+
+1. Breakfast, Lunch and Dinner are avaiable at 正定乒乓球基地餐厅
+
+
 ##  <span id="Reimbursement Information">Reimbursement Information</span>  
 
-To apply reimbursement from the host, please contact Professor Yanhong Ding (丁雁鸿老师，yanhongding@163.com) with the following documents:
+To apply reimbursement from the host, please contact Professor Yanhong Ding (丁雁鸿老师，yanhongding@163.com) with the following:
 
 1.	来回火车票  
 
