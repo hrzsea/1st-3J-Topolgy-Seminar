@@ -110,3 +110,4 @@ To apply reimbursement from the host, please contact Professor Yanhong Ding (丁
 
 1.	来回火车票  
 
+**Mailing Address: **
