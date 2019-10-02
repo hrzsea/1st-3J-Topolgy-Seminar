@@ -8,7 +8,7 @@ The seminar will be paperless. All the information about the seminar, including 
 ## <span id="Program">Program</span>  
 
 
-|                             |       Oct. 19, Monday             |   Oct. 20, Monday                      |
+|                             |       Oct. 19, Saturday             |   Oct. 20, Sunday                      |
 | --------------------------- | --------------------------------  | -------------------------------------- |
 |     7:00am - 8:00am         |     [Breakfast](#dining)         |      Breakfast                          |
 |     8:15am - 8:30am         |           Opening                 |                                        |
