@@ -10,7 +10,7 @@ The seminar will be paperless. All the information about the seminar, including 
 
 |                             |       Oct. 19, Monday             |   Oct. 20, Monday                      |
 | --------------------------- | --------------------------------  | -------------------------------------- |
-|     7:00am - 8:00am         |     Breakfast<sup>1</sup>         |      Breakfast<sup>1</sup>            |
+|     7:00am - 8:00am         |     [Breakfast](#dining)         |      Breakfast                          |
 |     8:15am - 8:30am         |           Opening                 |                                        |
 |          Chair              |                                   |                                        |
 |            8:30am - 9:20am  |     [**Yang Su**](#Yang Su)       |      [**Jian Liu**](#Jian Liu)         |
@@ -19,16 +19,16 @@ The seminar will be paperless. All the information about the seminar, including 
 |            10:20am-10:30am  |          Tea Break                |         Tea Break                      |
 |            10:30am-11:20am  | [**Ruizhi Huang**](#Ruizhi Huang) |     [**Zhiguo Zhang**](#张志国)   | 
 |            11:20am-11:30am  |          Tea Break                |                   Tea Break            |
-|            11:30am-12:20am  |          **Ruizhi Huang**         | [**Xiangjun Wang**](#Xiangjun Wang)<sup>2</sup> |
+|            11:30am-12:20am  |          **Ruizhi Huang**         | [**Xiangjun Wang**](#Xiangjun Wang)<sup>1</sup> |
 |                                                                                                          |
-|            12:30pm          |          Lunch<sup>1</sup>        |        Lunch<sup>1</sup>               |
+|            12:30pm          |          Lunch                    |        Lunch              |
 |                                                                                                          |
 |              Afternoon      |               **Free disussion**  |            Free disucssion/Leave       |
 |                                                                                                          |
-|              6:00pm (TBC)   |             Dinner<sup>1</sup>   |                                        |
+|              6:00pm (TBC)   |             Dinner               |                                        |
 
-2. This is a 30-min talk as required by the speaker
-3. WIFI:    , PASSWORD:
+1. This is a 30-min talk as required by the speaker
+2. WIFI:    , PASSWORD:
 
 
 
@@ -108,7 +108,7 @@ Abstract: In this talk I shall give a brief introduction to the study of Chang c
 
 ## <span id="Accommodation">Accommodation</span>
 
-1. Breakfast, Lunch and Dinner are avaiable at 正定乒乓球基地餐厅
+2. <span id="dining">Breakfast</span>, Lunch and Dinner are avaiable at 正定乒乓球基地餐厅
 
 
 ##  <span id="Reimbursement Information">Reimbursement Information</span>  
