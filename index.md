@@ -110,4 +110,8 @@ To apply reimbursement from the host, please contact Professor Yanhong Ding (丁
 
 1.	来回火车票  
 
-**Mailing Address:**
+**Mailing Address:**  
+河北省石家庄市南二环东路20号    
+河北师范大学数学科学学院  
+丁雁鸿  13722799311
+
