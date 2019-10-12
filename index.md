@@ -4,6 +4,8 @@ The 1st 3J Topology Seminar will hold at [河北正定乒乓球训练基地](htt
 
 The seminar will be paperless. All the information about the seminar, including [Talk Schedule](#Program), [Abstracts of the talks](#Talks), [Travel Information](#Travel Information), [Accommodation and Dining arrangement](#Accommodation), and [Reimbursement Information](#Reimbursement Information), will be released at this page.
 
+### Message Board
+`Oct.12 Please note the updates in the Accommodation section`
 
 ## <span id="Program">Program</span>  
 
@@ -23,7 +25,7 @@ The seminar will be paperless. All the information about the seminar, including 
 |                                                                                                          |
 |            12:30pm          |          Lunch                    |        Lunch              |
 |                                                                                                          |
-|              Afternoon      |               **Free disussion**  |            Free disucssion/Leave       |
+|              Afternoon      |               **Free discussion**  |            Free discussion/Leave       |
 |                                                                                                          |
 |              6:00pm (TBC)   |             Dinner               |                                        |
 
@@ -102,12 +104,13 @@ Abstract: In this talk I shall give a brief introduction to the study of Chang c
 
 ## <span id="Accommodation">Accommodation</span>
 
-1. Registration and accomodation are arranged at 公寓楼, where all the participants will stay
+1. Registration and accommodation are arranged at 公寓楼, where all the participants will stay.
 
-2. <span id="dining">Breakfast</span>, Lunch and Dinner are avaiable at 综合楼, the detail information will be shown on the tickets.    
+2. <span id="dining">Breakfast</span>, Lunch and Dinner are available at 综合楼; the detail information will be shown on the tickets.    
 
 
 ([正定乒乓球基地平面示意图](https://raw.githubusercontent.com/hrzsea/1st-3J-Topology-Seminar/master/正定乒乓基地平面示意图.jp2))
+_You may have to use web browser to open the image instead of Wechat!_
 
 ![](https://raw.githubusercontent.com/hrzsea/1st-3J-Topology-Seminar/master/正定乒乓基地平面示意图.jp2)    
 
