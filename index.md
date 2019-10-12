@@ -5,7 +5,7 @@ The 1st 3J Topology Seminar will hold at [河北正定乒乓球训练基地](htt
 The seminar will be paperless. All the information about the seminar, including [Talk Schedule](#Program), [Abstracts of the talks](#Talks), [Travel Information](#Travel Information), [Accommodation and Dining arrangement](#Accommodation), and [Reimbursement Information](#Reimbursement Information), will be released at this page.
 
 ### Message Board
-`Oct.12 Please note the updates in the Accommodation section`
+`Oct.12： Please note the updates in the Accommodation section`
 
 ## <span id="Program">Program</span>  
 
