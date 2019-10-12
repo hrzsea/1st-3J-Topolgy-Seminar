@@ -103,7 +103,7 @@ Abstract: In this talk I shall give a brief introduction to the study of Chang c
 
 2. <span id="dining">Breakfast</span>, Lunch and Dinner are avaiable at 正定乒乓球基地餐厅
 
-![](https://github.com/hrzsea/1st-3J-Topology-Seminar/blob/master/正定乒乓基地平面示意图.png)    
+![](https://raw.githubusercontent.com/hrzsea/1st-3J-Topology-Seminar/master/正定乒乓基地平面示意图.jp2)    
 
 
 ##  <span id="Reimbursement Information">Reimbursement Information</span>  
