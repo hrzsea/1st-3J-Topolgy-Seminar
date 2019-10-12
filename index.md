@@ -27,7 +27,8 @@ The seminar will be paperless. All the information about the seminar, including 
 |                                                                                                          |
 |              6:00pm (TBC)   |             Dinner               |                                        |
 
-1. This is a 30-min talk as required by the speaker
+1. All talks will take place in (TBC around Oct. 18)   
+1. This is a 30-min talk as required by the speaker 
 2. WIFI:    , PASSWORD:
 
 
@@ -101,7 +102,12 @@ Abstract: In this talk I shall give a brief introduction to the study of Chang c
 
 ## <span id="Accommodation">Accommodation</span>
 
-2. <span id="dining">Breakfast</span>, Lunch and Dinner are avaiable at 正定乒乓球基地餐厅
+1. Registration and accomodation are arranged at 公寓楼, where all the participants will stay
+
+2. <span id="dining">Breakfast</span>, Lunch and Dinner are avaiable at 综合楼, the detail information will be shown on the tickets.    
+
+
+([正定乒乓球基地平面示意图](https://raw.githubusercontent.com/hrzsea/1st-3J-Topology-Seminar/master/正定乒乓基地平面示意图.jp2))
 
 ![](https://raw.githubusercontent.com/hrzsea/1st-3J-Topology-Seminar/master/正定乒乓基地平面示意图.jp2)    
 
