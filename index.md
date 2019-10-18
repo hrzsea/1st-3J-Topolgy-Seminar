@@ -108,7 +108,7 @@ Abstract: In this talk I shall give a brief introduction to the study of Chang c
 
 1. Registration and accommodation are arranged at 公寓楼, where all the participants will stay.
 
-2. <span id="dining">Breakfast</span>, Lunch and Dinner are available at 综合楼; the detail information will be shown on the tickets.    
+2. <span id="dining">Breakfast</span>, Lunch and Dinner are available at 综合楼; 4楼 早午餐，1楼晚餐  
 
 
 ([正定乒乓球基地平面示意图](https://raw.githubusercontent.com/hrzsea/1st-3J-Topology-Seminar/master/正定乒乓基地平面示意图.jp2))
