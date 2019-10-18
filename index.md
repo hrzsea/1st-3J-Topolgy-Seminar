@@ -6,7 +6,7 @@ The seminar will be paperless. All the information about the seminar, including 
 
 ### Message Board
 `Oct.12： Please note the updates in the Accommodation section`  
-`Oct.12： Please note the updates of seminar romm in the Program section`
+`Oct.18:  Please note the updates of seminar room in the Program section`
 
 
 ## <span id="Program">Program</span>  
