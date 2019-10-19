@@ -31,7 +31,7 @@ The seminar will be paperless. All the information about the seminar, including 
 |                                                                                                          |
 |              6:00pm (TBC)   |             Dinner               |                                        |
 
-1. All talks will take place in (综合楼二层会议室)   
+1. All talks will take place in (综合楼5层会议室)   
 1. This is a 30-min talk as required by the speaker 
 2. WIFI:    , PASSWORD:
 
