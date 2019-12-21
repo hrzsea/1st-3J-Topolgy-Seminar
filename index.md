@@ -11,7 +11,7 @@ The seminar will be paperless. All the information about the seminar, including 
 
 ## <span id="Program">Program</span>  
 
-###（Geometric and algebraic topology of manifolds）
+### (Geometric and algebraic topology of manifolds）
 
 
 |                             |       Oct. 19, Saturday             |   Oct. 20, Sunday                      |
