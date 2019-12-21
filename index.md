@@ -9,7 +9,7 @@ The seminar will be paperless. All the information about the seminar, including 
 `Oct.18:  Please note the updates of seminar room in the Program section`
 
 
-## <span id="Program">Program</span>  
+## <span id="Program">Program</span>  （Geometric and algebraic topology of manifolds）
 
 
 |                             |       Oct. 19, Saturday             |   Oct. 20, Sunday                      |
