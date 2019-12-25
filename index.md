@@ -1,6 +1,6 @@
 # Welcome to the 1st 3J Topology Seminar  
 
-The 1st 3J Topology Seminar will hold at [河北正定乒乓球训练基地](http://www.cttazd.com/china/) from Oct. 19-20, 2019 (the 3rd weekend of October), hosted by Hebei Normal University (河北师范大学).
+The 1st 3J Topology Seminar will be held at [河北正定乒乓球训练基地](http://www.cttazd.com/china/) from Oct. 19-20, 2019 (the 3rd weekend of October), hosted by Hebei Normal University (河北师范大学).
 
 The seminar will be paperless. All the information about the seminar, including [Talk Schedule](#Program), [Abstracts of the talks](#Talks), [Travel Information](#Travel Information), [Accommodation and Dining arrangement](#Accommodation), and [Reimbursement Information](#Reimbursement Information), will be released at this page.
 
